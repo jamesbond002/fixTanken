@@ -4,7 +4,7 @@
     "subtitle" : "www.tankfix.de",
     
     "backButton" : true,
-    "enableGPS" : true,
+    "enableGPS" : false,
     "zoomControl" : false,
     "screenLockRot" : false,
     "reload" : true,
