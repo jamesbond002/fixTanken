@@ -16,8 +16,7 @@
        			
     "browserLaunchLink" : "http://www.tankfix.de", 
     
-    "onPageFinishedLoadUrl" : "
-javascript:
+    "onPageFinishedLoadUrl" : "javascript:
 myCon = { locationType:'auto', currentGPS : {lat:#lat#,lon:#lng#} };
 updateConfig(myCon);
 submitIt();
